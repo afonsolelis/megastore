@@ -1,0 +1,19 @@
+{
+  "id": 123,
+  "name": "Câmera A7S",
+  "description": "Câmera profissional full-frame, ótima para vídeos.",
+  "data": {
+    "price": 15000.00,
+    "category": "câmeras"
+  },
+  "edges": [
+    {
+      "to_id": 888,
+      "relationship": "ACESSORIO_COMPATIVEL"
+    },
+    {
+      "to_id": 999,
+      "relationship": "COMPRADO_JUNTO"
+    }
+  ]
+}
