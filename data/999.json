@@ -1,9 +1,9 @@
 {
-  "id": 888,
-  "name": "Lente 50mm f/1.8",
-  "description": "Lente clara e versátil para retratos.",
+  "id": 999,
+  "name": "Lente 24-70mm f/2.8",
+  "description": "Lente zoom profissional versátil para diversas situações.",
   "data": {
-    "price": 1200.00,
+    "price": 4500.00,
     "category": "lentes"
   },
   "edges": [
@@ -12,7 +12,7 @@
       "relationship": "COMPATIVEL_COM"
     },
     {
-      "to_id": 999,
+      "to_id": 888,
       "relationship": "ALTERNATIVA_PARA"
     }
   ]

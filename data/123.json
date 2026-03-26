@@ -9,11 +9,39 @@
   "edges": [
     {
       "to_id": 888,
-      "relationship": "ACESSORIO_COMPATIVEL"
+      "relationship": "COMPATIVEL_COM"
     },
     {
       "to_id": 999,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 456,
       "relationship": "COMPRADO_JUNTO"
+    },
+    {
+      "to_id": 789,
+      "relationship": "COMPRADO_JUNTO"
+    },
+    {
+      "to_id": 741,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 852,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 963,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 321,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 147,
+      "relationship": "COMPATIVEL_COM"
     }
   ]
 }
